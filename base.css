@@ -1,0 +1,9 @@
+body {
+  background-color: lightyellow;
+  font-family: monospace;
+}
+
+h3 {
+  color: red;
+  text-transform: uppercase;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@omarshatat06/refpages-shared-styles",
+  "version": "1.0.9",
+  "main": "base.css",
+  "style": "base.css",
+  "files": [
+    "base.css",
+    "variables.css"
+  ],
+  "exports": {
+    "./base.css": {
+      "default": "./base.css"
+    },
+    "./variables.css": {
+      "default": "./variables.css"
+    }
+  },
+  "license": "MIT"
+}
